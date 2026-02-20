@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Fri, 20 Feb 2026 00:25:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>FBI says ATM &#8216;jackpotting&#8217; attacks are on the rise, and netting hackers millions in stolen cash</title>
+		<link>https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 22:31:34 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[ATM]]></category>
+		<category><![CDATA[cash machine]]></category>
+		<category><![CDATA[cyberattacks]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[jackpotting]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094673</guid>
+
+					<description><![CDATA[The FBI says hacks that trick ATMs into spitting out cash on demand are rising, with hundreds of attacks in the past year alone netting hackers millions in stolen bills.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>At a critical moment, Snap loses a top Specs exec</title>
+		<link>https://techcrunch.com/2026/02/19/at-a-critical-moment-snap-loses-a-top-specs-exec/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 22:30:36 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Scott Myers]]></category>
+		<category><![CDATA[Snap]]></category>
+		<category><![CDATA[specs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094590</guid>
+
+					<description><![CDATA[As Snap readies the public release of its long-awaited VR glasses, one of the key executives on the project has left the company. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Second and last chance for innovators to win scaling perks: Belden extends nomination window</title>
+		<link>https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/</link>
+		
+		<dc:creator><![CDATA[TechCrunch Events]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 22:23:15 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Joseph Belden]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[SMBs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094631</guid>
+
+					<description><![CDATA[Last day to nominate for the 2026 Joseph C. Belden Innovation Award has been extended through February 27. Don't miss your chance to win scaling perks.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cellebrite cut off Serbia citing abuse of its phone unlocking tools. Why not others?</title>
+		<link>https://techcrunch.com/2026/02/19/cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlocking-tools-why-not-others/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 22:04:52 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Cellebrite]]></category>
+		<category><![CDATA[Citizen Lab]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[jordan]]></category>
+		<category><![CDATA[Kenya]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[surveillance]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094602</guid>
+
+					<description><![CDATA[Cellebrite, which makes phone unlocking and hacking tools, stopped sales to countries that allegedly abused its tools. But after new allegations in Jordan and Kenya, the company has changed its approach. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google says its AI systems helped deter Play Store malware in 2025</title>
+		<link>https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 21:27:39 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094561</guid>
+
+					<description><![CDATA[Google said it prevented 1.75 million bad apps from going live on Google Play during 2025, a figure that's down from previous years. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>An AI data center boom is fueling Redwood&#8217;s energy storage business</title>
+		<link>https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 21:10:13 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[redwood energy]]></category>
+		<category><![CDATA[Redwood Materials]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094559</guid>
+
+					<description><![CDATA[Redwood Materials says its new energy storage business is the fastest growing unit within the company. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why these startup CEOs don&#8217;t think AI will replace human roles</title>
+		<link>https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 20:47:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI assistant]]></category>
+		<category><![CDATA[Customer success]]></category>
+		<category><![CDATA[Read AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3091415</guid>
+
+					<description><![CDATA[The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>YouTube’s latest experiment brings its conversational AI tool to TVs</title>
+		<link>https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 20:30:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[conversational AI]]></category>
+		<category><![CDATA[YouTube]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094582</guid>
+
+					<description><![CDATA[YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Toyota contracts seven Agility humanoid robots for Canadian factory</title>
+		<link>https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 20:29:02 +0000</pubDate>
+				<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[agility robotics]]></category>
+		<category><![CDATA[humanoid robots]]></category>
+		<category><![CDATA[Toyota]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094580</guid>
+
+					<description><![CDATA[The robots will be unloading totes full of auto parts from an automated warehouse tugger.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The boys&#8217; club no one was supposed to write about</title>
+		<link>https://techcrunch.com/2026/02/19/the-boys-club-no-one-was-supposed-to-write-about/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 19:58:09 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Keith Rabois]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<category><![CDATA[Tim Cook]]></category>
+		<category><![CDATA[Wired]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094546</guid>
+
+					<description><![CDATA[Reporter Zoë Bernard spent months talking to 51 people (31 of them gay men) to map out a subculture that's been an open secret in Silicon Valley for years: gay men, at the upper echelons of tech, quietly raising up their own networks the way powerful people have always done.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SpaceX&#8217;s Starbase city is getting its own court</title>
+		<link>https://techcrunch.com/2026/02/19/spacexs-starbase-city-is-getting-its-own-court/</link>
+		
+		<dc:creator><![CDATA[Sean O'Kane]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 19:55:06 +0000</pubDate>
+				<category><![CDATA[Space]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<category><![CDATA[starbase]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094535</guid>
+
+					<description><![CDATA[Elon Musk's company town already has a volunteer fire department, and is forming a Starbase Police Department. Now it wants its own court, too.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>As browser wars heat up, Chrome adds new productivity features</title>
+		<link>https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 18:30:51 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Google]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094500</guid>
+
+					<description><![CDATA[Split View, PDF annotations, and 'Save to Chrome' features come to the Chrome browser. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reddit is testing a new AI search feature for shopping</title>
+		<link>https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 18:22:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094494</guid>
+
+					<description><![CDATA[A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta is shutting down Messenger&#8217;s standalone website</title>
+		<link>https://techcrunch.com/2026/02/19/meta-is-shutting-down-messengers-standalone-website/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 17:01:29 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Messenger]]></category>
+		<category><![CDATA[facebook messenger]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094426</guid>
+
+					<description><![CDATA[The move comes a few months after Meta shut down Messenger’s standalone desktop apps for Windows and Mac.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New York hits the brakes on robotaxi expansion plan</title>
+		<link>https://techcrunch.com/2026/02/19/new-york-hits-the-brakes-on-robotaxi-expansion-plan/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 16:53:05 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[robotaxis]]></category>
+		<category><![CDATA[Waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3092214</guid>
+
+					<description><![CDATA[The governor of New York pulled a robotaxi expansion proposal that was viewed as a win for Waymo. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zuckerberg grilled in court over social media harms on teens</title>
+		<link>https://techcrunch.com/2026/02/19/zuckerberg-grilled-in-court-over-social-media-harms-on-teens/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 16:41:59 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Court]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Social media addiction]]></category>
+		<category><![CDATA[Teens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094430</guid>
+
+					<description><![CDATA[Meta's CEO was questioned over the addictive nature of its social media apps like Instagram, and other teen harms. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SoftBank to spend an eye-popping $33B to build huge US gas power plant</title>
+		<link>https://techcrunch.com/2026/02/19/softbank-to-spend-an-eye-popping-33b-to-build-huge-u-s-gas-power-plant/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 16:27:58 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[electrical grid]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[natural gas]]></category>
+		<category><![CDATA[power plants]]></category>
+		<category><![CDATA[Softbank]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094431</guid>
+
+					<description><![CDATA[If completed, the project would be among the largest and most expensive natural gas power plants.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI reportedly finalizing $100B deal at more than $850B valuation</title>
+		<link>https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 15:35:58 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094399</guid>
+
+					<description><![CDATA[OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Current is a new RSS reader that&#8217;s more like a river than an inbox</title>
+		<link>https://techcrunch.com/2026/02/19/current-is-a-new-rss-reader-thats-more-like-a-river-than-an-inbox/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 15:33:29 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[currrent]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[RSS]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3094143</guid>
+
+					<description><![CDATA[Current introduces a stress-free, totally reimagined RSS news reading app as a one-time paid download. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sex toys maker Tenga says hacker stole customer information</title>
+		<link>https://techcrunch.com/2026/02/19/sex-toys-maker-tenga-says-hacker-stole-customer-information/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 15:25:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[infosec]]></category>
+		<category><![CDATA[Japan]]></category>
+		<category><![CDATA[Sex]]></category>
+		<category><![CDATA[sex toys]]></category>
+		<category><![CDATA[tenga]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3093004</guid>
+
+					<description><![CDATA[The Japanese sex toy maker said a hacker broke into an employee's inbox and stole customer names, email addresses, and correspondence, including order details and customer service inquiries.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
