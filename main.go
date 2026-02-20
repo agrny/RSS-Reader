@@ -9,16 +9,18 @@ import (
 
 func main() {
 	// Command-line flags
-	defaultFeedURL := "https://www.wired.com/feed/rss"
-	feedURL := flag.String("u", "", "RSS feed URL")
-	flag.String("url", defaultFeedURL, "RSS feed URL")
+	fh := feedhandler.NewFeedHandler()
+	feedURL := flag.String("a", "", "RSS feed URL")
+	flag.String("add", "", "RSS feed URL")
 	// maxItems := flag.Int("items", 5, "Maximum number of items to display")
 	flag.Parse()
 
-	// Fetch RSS feed
-	feed := feedhandler.NewFeed(*feedURL)
+	if feedURL != nil {
+		feed := feedhandler.NewFeed(*feedURL)
+		fh.AddFeed(*feed)
+	}
 
-	fmt.Printf("SUMMARY:\n\n%s", feed.Summary())
+	fmt.Printf("SUMMARY\n%s", fh.Summary())
 
 	// get feed title via channel.title
 }
