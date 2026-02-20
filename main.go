@@ -10,7 +10,8 @@ import (
 func main() {
 	// Command-line flags
 	defaultFeedURL := "https://www.wired.com/feed/rss"
-	feedURL := flag.String("url", defaultFeedURL, "RSS feed URL")
+	feedURL := flag.String("u", "", "RSS feed URL")
+	flag.String("url", defaultFeedURL, "RSS feed URL")
 	// maxItems := flag.Int("items", 5, "Maximum number of items to display")
 	flag.Parse()
 
